@@ -7,7 +7,7 @@ const PRICES = {
   INFANT: 0,
   CHILD: 15,
   ADULT: 25,
-};
+}; 
 
 const MAX_TICKETS = 25;
 
