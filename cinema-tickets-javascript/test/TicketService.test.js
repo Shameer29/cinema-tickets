@@ -1,8 +1,8 @@
 import { jest, describe, test, expect, beforeEach } from '@jest/globals';
 import TicketService from '../src/pairtest/TicketService.js';
 import TicketTypeRequest from '../src/pairtest/lib/TicketTypeRequest.js';
-import InvalidPurchaseException from '../src/pairtest/lib/InvalidPurchaseException.js';
-
+import InvalidPurchaseException from '../src/pairtest/lib/InvalidPurchaseException.js'; 
+ 
 // simple reusable mocks
 const paymentServiceMock = { makePayment: jest.fn() };
 const seatServiceMock = { reserveSeat: jest.fn() };
