@@ -13,7 +13,7 @@
     "jest": "^29.0.0"
   },
   "jest": {
-    "transform": {},
+    "transform": {}, 
     "injectGlobals": true,
     "testEnvironment": "node"
   }
