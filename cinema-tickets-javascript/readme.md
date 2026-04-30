@@ -9,7 +9,7 @@ A JavaScript implementation of a cinema ticket purchasing service.
 | Adult       | £25   |
 | Child       | £15   |
 | Infant      | £0    |
-
+ 
 3.Installation
 
 npm install
